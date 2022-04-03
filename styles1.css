@@ -1,0 +1,111 @@
+body {
+    background-color: rgb(190, 206, 211);
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.all1 {
+    max-width: 800px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.allphoto {
+    border-radius: 5px;
+    padding: 5px;
+    border : 5px solid rgb(0, 5, 141);
+    margin-bottom: 120px;
+}
+
+.photo1 {
+    width: 313px;
+    box-shadow:0px 0px 10px 10px rgb(120, 255, 244);
+}
+
+.photo2 {
+    width: 359px;
+    margin-left: 79px;
+    box-shadow:0px 0px 11px 11px rgb(120, 255, 244);
+}
+
+.image-align1 {
+    text-align: center;
+}
+
+.center1 {
+    text-align: center;
+    color: rgb(0, 5, 141) ;
+}
+
+.social1 {
+    margin: 200px 1px 30px 1px;
+}
+
+.list1 {
+    padding-left: 130px;
+}
+
+.list1 li {
+    margin-bottom: 5px;
+}
+
+.card3 {
+    border : 5px solid rgb(0, 5, 141);
+    border-radius: 20px;
+    padding: 0px 0px 15px 0px ;
+    margin-bottom: 100px;
+    box-shadow:0px 0px 20px 20px rgb(120, 255, 244);
+}
+
+.form-group1 label {
+    display: block;
+    margin: 5px 0px;
+ }
+ 
+ .form-group1 input,
+ .form-group1 textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 12px;
+    font-family: inherit;
+    background: transparent;
+ }
+ 
+ .btn1 {
+    background: black;
+    padding: 8px 14px;
+    color: white;
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+    margin-left: 715px;
+    margin-top: 8px;
+ }
+ 
+ .btn1:hover {
+    opacity: 0.9;
+ }
+
+ a {
+    color: rgb(0, 0, 56);
+    text-decoration: none;
+ }
+ 
+ a:hover {
+    text-decoration: underline;
+ }
+ 
+ a:active {
+    color: rgb(0, 5, 141);
+ }
+ 
+ a:visited {
+    color: rgb(71, 71, 71);
+ }
+
+ .social1 {
+    margin: 150px 1px 30px 1px;
+ }
